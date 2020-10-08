@@ -4,7 +4,7 @@
 
 <img src="images/icon.png" align="right" />
 
-# Pterodactyl Eggs [![DEVBenSon](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Pterodactyl Eggs [![DEVBenSon](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://shop.xevotech.com)
 > Maintained and managed by DEVBenSon
 
 List of custom made/public pterodactyl panel eggs (Server configurations) <br>
