@@ -8,7 +8,7 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
 
 <img src="images/help.png" align="left" alt="Logo" width="42" height="42" />
 
-## | How to import an egg
+## | How to import an egg(s)
 
 1. Go and download the latest release package or download any individual of the .json files located in the folders below.
       * Download .json files = (right-click the `raw` button press `CTRL` + `S` to save file.)
@@ -25,6 +25,34 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
 
 ## | Index Eggs List
 
+### 🎮 Game Servers
+* [Comming Soon](#about-the-project)
+  * [Comming Soon](#built-with)
+* [Comming Soon](#getting-started)
+  * [Comming Soon](#prerequisites)
+  * [Comming Soon](#installation)
+* [Comming Soon](#usage)
+* [Comming Soon](#roadmap)
+
+### 🤖 Bots
+* [Comming Soon](#about-the-project)
+  * [Comming Soon](#built-with)
+* [Comming Soon](#getting-started)
+  * [Comming Soon](#prerequisites)
+  * [Comming Soon](#installation)
+* [Comming Soon](#usage)
+* [Comming Soon](#roadmap)
+
+### 📊 Databases
+* [Comming Soon](#about-the-project)
+  * [Comming Soon](#built-with)
+* [Comming Soon](#getting-started)
+  * [Comming Soon](#prerequisites)
+  * [Comming Soon](#installation)
+* [Comming Soon](#usage)
+* [Comming Soon](#roadmap)
+
+### Other
 * [Comming Soon](#about-the-project)
   * [Comming Soon](#built-with)
 * [Comming Soon](#getting-started)
@@ -34,15 +62,15 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
 * [Comming Soon](#roadmap)
 
 
-
-
-
 <!-- CONTACT -->
 ## Contact Support
 
-Discord - BenSon#0001 - Contact@cmurphy.dev
+Discord - BenSon#0001 - Contact@devbenson.com
+> If your not able to contact me go to XevoTech for exrta support that is free.
 
 Project Link: [here](https://github.com/DEVBenSon/pterodactyl-eggs)
+Discord Server: [here](https://discord.gg/M9wdwwf)
+
 
 <!-- LICENSE -->
 ## License
