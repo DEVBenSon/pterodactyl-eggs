@@ -60,9 +60,12 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
   <br>  »  TraverTine
   <br>  »  TyphoonLimbo
   <br>  »  VeloCity
-* [Comming Soon](#getting-started)
-  * [Comming Soon](#prerequisites)
-  * [Comming Soon](#installation)
+* [GTA Online Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/GTA%20Online%20Servers)
+  * FiveM
+  * RageMP
+  * SAMP
+  * AltV
+  * Mtasa
 * [Comming Soon](#usage)
 * [Comming Soon](#roadmap)
 
