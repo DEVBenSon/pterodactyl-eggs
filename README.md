@@ -66,13 +66,14 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
   * BigBrotherBot
 
 ### 📊 Databases
-* [Comming Soon](#about-the-project)
-  * [Comming Soon](#built-with)
-* [Comming Soon](#getting-started)
-  * [Comming Soon](#prerequisites)
-  * [Comming Soon](#installation)
-* [Comming Soon](#usage)
-* [Comming Soon](#roadmap)
+* [MySQL Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%93%8A%5D%20Databases/MySQL%20Servers)
+  * MariaDB
+  * Postgres
+* [Redis Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%93%8A%5D%20Databases/Redis%20Servers)
+  * Redis-5
+  * Redis-6
+* [NoSQL Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%93%8A%5D%20Databases/NoSQL%20Servers)
+  * MongoDB
 
 ### Other
 * [Comming Soon](#about-the-project)
