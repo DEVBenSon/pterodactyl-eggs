@@ -35,13 +35,25 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
 * [Comming Soon](#roadmap)
 
 ### 🤖 Bots
-* [Comming Soon](#about-the-project)
-  * [Comming Soon](#built-with)
-* [Comming Soon](#getting-started)
-  * [Comming Soon](#prerequisites)
-  * [Comming Soon](#installation)
-* [Comming Soon](#usage)
-* [Comming Soon](#roadmap)
+* [Discord Bots](#about-the-project)
+  * Atlbot
+  * Bastion
+  * corpbot
+  * discord.js
+  * discord.py
+  * jmusicbot
+  * fragbot
+  * parkertron
+  * pixelbot
+  * redbot
+  * sinusbot
+* [TeamSpeak 3 Bots](#getting-started)
+  * JTS3ServerMod
+* [Twitch Bots](#usage)
+  * Phantombot
+  * SogeBot
+* [Other Bots](#roadmap)
+  * BigBrotherBot
 
 ### 📊 Databases
 * [Comming Soon](#about-the-project)
