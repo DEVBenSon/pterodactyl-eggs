@@ -21,7 +21,7 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
 ## | How to import an egg(s)
 
 1. Go and download the latest release package or download any individual of the .json files located in the folders below.
-      * Download .json files = (right-click the `raw` button press `CTRL` + `S` to save file.)
+      * Download .json files (right-click the `raw` button press `CTRL` + `S` to save file.)
       * Downloading release packages ( Link )
 2. Proceed to your pterodactyl panel in the admin view and go to the Nests section.
 3. Click the green Import Egg button.
