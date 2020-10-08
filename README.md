@@ -3,7 +3,8 @@
 # Pterodactly Eggs [![DEVBenSon](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > Maintained and managed by DEVBenSon
 
-List of custom made/public pterodactyl panel eggs (Server configurations)
+List of custom made/public pterodactyl panel eggs (Server configurations) <br>
+Currently, all eggs on this list support pterodactyl `0.6` - least + supports beta `v1.0.0-rc.7`
 
 
 ## How to import an egg
@@ -20,7 +21,7 @@ List of custom made/public pterodactyl panel eggs (Server configurations)
 
 
 
-## Table of Server Eggs
+## Index Eggs List
 
 * [Comming Soon](#about-the-project)
   * [Comming Soon](#built-with)
@@ -29,3 +30,19 @@ List of custom made/public pterodactyl panel eggs (Server configurations)
   * [Comming Soon](#installation)
 * [Comming Soon](#usage)
 * [Comming Soon](#roadmap)
+
+
+
+
+
+<!-- CONTACT -->
+## Contact Support
+
+Discord - BenSon#0001 - Contact@cmurphy.dev
+
+Project Link: [here](https://github.com/DEVBenSon/pterodactyl-eggs)
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `DEVBenson` for more information.
