@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="images/icon.png" align="right" />
 
 # Pterodactly Eggs [![DEVBenSon](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > Maintained and managed by DEVBenSon
@@ -6,8 +6,9 @@
 List of custom made/public pterodactyl panel eggs (Server configurations) <br>
 Currently, all eggs on this list support pterodactyl `0.6` - least + supports beta `v1.0.0-rc.7`
 
+<img src="images/help.png" align="left" alt="Logo" width="42" height="42" />
 
-## How to import an egg
+## | How to import an egg
 
 1. Go and download the latest release package or download any individual of the .json files located in the folders below.
       * Download .json files = (right-click the `raw` button press `CTRL` + `S` to save file.)
@@ -20,8 +21,9 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
 6. Restart the daemon on your node before creating a server using the new egg(s).
 
 
+<img src="images/list.png" align="left" alt="Logo" width="42" height="42" />
 
-## Index Eggs List
+## | Index Eggs List
 
 * [Comming Soon](#about-the-project)
   * [Comming Soon](#built-with)
