@@ -35,7 +35,7 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
 * [Comming Soon](#roadmap)
 
 ### 🤖 Bots
-* [Discord Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots)
+* [Discord Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Discord%20Bots)
   * Atlbot
   * Bastion
   * corpbot
@@ -47,12 +47,12 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
   * pixelbot
   * redbot
   * sinusbot
-* [TeamSpeak 3 Bots](#getting-started)
+* [TeamSpeak 3 Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/TeamSpeak%203%20Bots)
   * JTS3ServerMod
-* [Twitch Bots](#usage)
+* [Twitch Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Twitch%20Bots)
   * Phantombot
   * SogeBot
-* [Other Bots](#roadmap)
+* [Other Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Other%20Bots)
   * BigBrotherBot
 
 ### 📊 Databases
