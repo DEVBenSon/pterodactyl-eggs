@@ -36,8 +36,30 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
 ## | Index Eggs List
 
 ### 🎮 Game Servers
-* [Comming Soon](#about-the-project)
-  * [Comming Soon](#built-with)
+* [Minecraft Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Minecraft%20Servers)
+  * [Java Minecraft](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Minecraft%20Servers/Java%20Minecraft)
+  <br>  »  Vanilla
+  <br>  »  Paper
+  <br>  »  Spigot
+  <br>  »  Forge
+  <br>  »  FTB
+  <br>  »  Technic
+  <br>  »  Feather
+  <br>  »  Magma
+  <br>  »  SpongeForge
+  <br>  »  SpongeVanilla
+  <br>  »  Cuberite
+  <br>  »  Tuinity
+  * [Bedrock Minecraft](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Minecraft%20Servers/Bedrock%20Minecraft)
+  <br>  »  Bedrock
+  <br>  »  Nukkit
+  <br>  »  PocketMine MP
+  <br>  »  Dragon Proxy
+  * [Proxy Minecraft](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Minecraft%20Servers/Proxy%20Minecraft)
+  <br>  »  WaterFall
+  <br>  »  TraverTine
+  <br>  »  TyphoonLimbo
+  <br>  »  VeloCity
 * [Comming Soon](#getting-started)
   * [Comming Soon](#prerequisites)
   * [Comming Soon](#installation)
