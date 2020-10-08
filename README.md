@@ -1,6 +1,6 @@
-[![Generic badge](https://img.shields.io/badge/Downloads-1.2K-Green.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Pterodactyl-0.7-orange.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Pterodactyl-1.0-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Downloads-1.2K-Green.svg)](https://github.com/DEVBenSon/pterodactyl-eggs/releases)
+[![Generic badge](https://img.shields.io/badge/Pterodactyl-0.7-orange.svg)](#)
+[![Generic badge](https://img.shields.io/badge/Pterodactyl-1.0-blue.svg)](#)
 
 <img src="images/icon.png" align="right" />
 
