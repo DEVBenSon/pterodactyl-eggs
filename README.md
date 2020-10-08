@@ -35,7 +35,7 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
 * [Comming Soon](#roadmap)
 
 ### 🤖 Bots
-* [Discord Bots](#about-the-project)
+* [Discord Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots)
   * Atlbot
   * Bastion
   * corpbot
