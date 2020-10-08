@@ -1,6 +1,10 @@
+[![Generic badge](https://img.shields.io/badge/Downloads-1.2K-Green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Pterodactyl-0.7-orange.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Pterodactyl-1.0-blue.svg)](https://shields.io/)
+
 <img src="images/icon.png" align="right" />
 
-# Pterodactly Eggs [![DEVBenSon](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Pterodactyl Eggs [![DEVBenSon](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > Maintained and managed by DEVBenSon
 
 List of custom made/public pterodactyl panel eggs (Server configurations) <br>
