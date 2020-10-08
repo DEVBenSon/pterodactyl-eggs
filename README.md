@@ -105,13 +105,13 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
   * MongoDB
 
 ### Other
-* [Comming Soon](#about-the-project)
-  * [Comming Soon](#built-with)
-* [Comming Soon](#getting-started)
-  * [Comming Soon](#prerequisites)
-  * [Comming Soon](#installation)
-* [Comming Soon](#usage)
-* [Comming Soon](#roadmap)
+* [Adding More Soon](#about-the-project)
+  * [Adding More Soon](#built-with)
+* [Adding More Soon](#getting-started)
+  * [Adding More Soon](#prerequisites)
+  * [Adding More Soon](#installation)
+* [Adding More Soon](#usage)
+* [Adding More Soon](#roadmap)
 
 
 <!-- CONTACT -->
