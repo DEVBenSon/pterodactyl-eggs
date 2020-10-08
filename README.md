@@ -1,6 +1,10 @@
+[![Generic badge](https://img.shields.io/badge/Downloads-1.2K-Green.svg)](https://github.com/DEVBenSon/pterodactyl-eggs/releases)
+[![Generic badge](https://img.shields.io/badge/Pterodactyl-0.7-orange.svg)](#)
+[![Generic badge](https://img.shields.io/badge/Pterodactyl-1.0-blue.svg)](#)
+
 <img src="images/icon.png" align="right" />
 
-# Pterodactly Eggs [![DEVBenSon](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Pterodactyl Eggs [![DEVBenSon](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://shop.xevotech.com)
 > Maintained and managed by DEVBenSon
 
 List of custom made/public pterodactyl panel eggs (Server configurations) <br>
@@ -35,13 +39,25 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
 * [Comming Soon](#roadmap)
 
 ### 🤖 Bots
-* [Comming Soon](#about-the-project)
-  * [Comming Soon](#built-with)
-* [Comming Soon](#getting-started)
-  * [Comming Soon](#prerequisites)
-  * [Comming Soon](#installation)
-* [Comming Soon](#usage)
-* [Comming Soon](#roadmap)
+* [Discord Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Discord%20Bots)
+  * Atlbot
+  * Bastion
+  * corpbot
+  * discord.js
+  * discord.py
+  * jmusicbot
+  * fragbot
+  * parkertron
+  * pixelbot
+  * redbot
+  * sinusbot
+* [TeamSpeak 3 Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/TeamSpeak%203%20Bots)
+  * JTS3ServerMod
+* [Twitch Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Twitch%20Bots)
+  * Phantombot
+  * SogeBot
+* [Other Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Other%20Bots)
+  * BigBrotherBot
 
 ### 📊 Databases
 * [Comming Soon](#about-the-project)
