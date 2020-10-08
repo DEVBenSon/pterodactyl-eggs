@@ -89,6 +89,10 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
   * SogeBot
 * [Other Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Other%20Bots)
   * BigBrotherBot
+  
+### 🗣️ Voice Servers
+* [TeamSpeak](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%97%A3%EF%B8%8F%5D%20Voice%20Servers/TeamSpeak%20Servers)
+  * TeamSpeak 3
 
 ### 📊 Databases
 * [MySQL Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%93%8A%5D%20Databases/MySQL%20Servers)
