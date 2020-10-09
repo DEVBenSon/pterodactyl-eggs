@@ -66,8 +66,49 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
   * SAMP
   * AltV
   * Mtasa
-* [Adding More Soon](#usage)
-* [Adding More Soon](#roadmap)
+* [Terraria Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Terraria%20Servers)
+  * Vanilla
+  * TShock
+  * TModLoader
+* [Steam Game Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Steam%20Game%20Servers)
+  * Arma
+  <br>  »  ARMA 3
+  <br>  »  ARMA 3 (Headless Client)
+  * Ark Survival Evolved
+  * 7 Days To Die
+  * Killing Floor 2
+  * Rust
+  <br>  »  Rust (Auto Wipe)
+  <br>  »  Rust (Staging)
+  * Squad
+  * Unturned
+  * Insurgency
+  <br>  »  Insurgency
+  <br>  »  Insurgency Sandstorm
+  * Team Fortress 2
+  * Garry's Mod
+  * Counter Strike Global Offensive (CS:GO)
+  * Tower Unite
+  * Hurtworld
+  * PixArk
+  * StarBound
+  * Dont Starve
+  * SvenCO-OP
+  * OnSet
+  * Project Zomboid
+  * Avorion
+  * Stationeers
+  * Citadel
+  * Conan Exiles
+  * Soldat
+  * SCPSL
+  * MordHau
+  * ECO
+  * HLDS Server
+ * [Adding More Soon](#roadmap)
+  * Adding More Soon
+ * [Adding More Soon](#roadmap)
+  * Adding More Soon
 
 ### 🤖 Bots
 * [Discord Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Discord%20Bots)
@@ -91,6 +132,7 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
   * BigBrotherBot
   
 ### 🗣️ Voice Servers
+* Mumble
 * [TeamSpeak](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%97%A3%EF%B8%8F%5D%20Voice%20Servers/TeamSpeak%20Servers)
   * TeamSpeak 3
 
@@ -110,8 +152,8 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
   * Adding Soon
 
 ### Other
-* [Adding More Soon](#about-the-project)
-  * [Adding More Soon](#built-with)
+* [Custom Made](#about-the-project)
+  * Any Source Engine Game Insstaller
 * [Adding More Soon](#getting-started)
   * [Adding More Soon](#prerequisites)
   * [Adding More Soon](#installation)
