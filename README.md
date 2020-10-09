@@ -106,9 +106,6 @@ Currently, all eggs on this list support pterodactyl `0.6` - least + supports be
   * ECO
   * HLDS Server
  * [Adding More Soon](#roadmap)
-  * Adding More Soon
- * [Adding More Soon](#roadmap)
-  * Adding More Soon
 
 ### 🤖 Bots
 * [Discord Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Discord%20Bots)
