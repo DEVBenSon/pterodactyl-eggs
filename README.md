@@ -8,7 +8,7 @@
 > Maintained and managed by DEVBenSon
 
 List of custom made/public pterodactyl panel eggs (Server configurations) <br>
-Currently, all eggs on this list support pterodactyl `0.6` - least + supports beta `v1.0.0-rc.7` <br>
+Currently, all eggs on this list support pterodactyl `v1.5.1`  - least <br>
 
 ⥥ Download Pack! ⥥ <br>
 <a href="https://github.com/DEVBenSon/pterodactyl-eggs/releases">
