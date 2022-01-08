@@ -13,7 +13,7 @@
         "files": "{}",
         "startup": "{\r\n    \"done\": \"SERVER STARTED\",\r\n    \"userInteraction\": []\r\n}",
         "logs": "{}",
-        "stop": "^C"
+        "stop": "quit"
     },
     "scripts": {
         "installation": {
