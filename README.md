@@ -142,6 +142,7 @@ Currently, all eggs on this list support pterodactyl `v1.5.1`  - least <br>
   * Redis-6
 * [NoSQL Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%93%8A%5D%20Databases/NoSQL%20Servers)
   * MongoDB
+  * PolygonDB
   
 ### 🌐 Website & FastDL Servers
 * [WebHosting Servers](#about-the-project)
