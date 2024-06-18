@@ -10,7 +10,7 @@
 List of custom made/public pterodactyl panel eggs (Server configurations) <br>
 Currently, all eggs on this list support pterodactyl `v1.11.2`  - least <br>
 
-⥥ Download Pack! ⥥ <br>
+⥥ Download Latest Pack! ⥥ <br>
 <a href="https://github.com/DEVBenSon/pterodactyl-eggs/releases">
  <img alt="download" src="/images/download.png"
  width="393" height="59">
@@ -38,110 +38,31 @@ Currently, all eggs on this list support pterodactyl `v1.11.2`  - least <br>
 ### 🎮 Game Servers
 * [Minecraft Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Minecraft%20Servers)
   * [Java Minecraft](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Minecraft%20Servers/Java%20Minecraft)
-  <br>  »  Vanilla
-  <br>  »  Paper
-  <br>  »  Spigot
-  <br>  »  Forge
-  <br>  »  FTB
-  <br>  »  Technic
-  <br>  »  Feather
-  <br>  »  Magma
-  <br>  »  SpongeForge
-  <br>  »  SpongeVanilla
-  <br>  »  Cuberite
-  <br>  »  Tuinity
   * [Bedrock Minecraft](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Minecraft%20Servers/Bedrock%20Minecraft)
-  <br>  »  Bedrock
-  <br>  »  Nukkit
-  <br>  »  PocketMine MP
-  <br>  »  Dragon Proxy
   * [Proxy Minecraft](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Minecraft%20Servers/Proxy%20Minecraft)
-  <br>  »  WaterFall
-  <br>  »  TraverTine
-  <br>  »  TyphoonLimbo
-  <br>  »  VeloCity
+  * [Crossplay Server Support](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Minecraft%20Servers/Proxy%20Minecraft)
 * [GTA Online Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/GTA%20Online%20Servers)
-  * FiveM
-  * RageMP
-  * SAMP
-  * AltV
-  * Mtasa
 * [Terraria Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Terraria%20Servers)
-  * Vanilla
-  * TShock
-  * TModLoader
 * [Steam Game Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/Steam%20Game%20Servers)
-  * Arma
-  <br>  »  ARMA 3
-  <br>  »  ARMA 3 (Headless Client)
-  * Ark Survival Evolved
-  * 7 Days To Die
-  * Killing Floor 2
-  * Rust
-  <br>  »  Rust (Auto Wipe)
-  <br>  »  Rust (Staging)
-  * Squad
-  * Unturned
-  * Insurgency
-  <br>  »  Insurgency
-  <br>  »  Insurgency Sandstorm
-  * Team Fortress 2
-  * Garry's Mod
-  * Counter Strike Global Offensive (CS:GO)
-  * Tower Unite
-  * Hurtworld
-  * PixArk
-  * StarBound
-  * Dont Starve
-  * SvenCO-OP
-  * OnSet
-  * Project Zomboid
-  * Avorion
-  * Stationeers
-  * Citadel
-  * Conan Exiles
-  * Soldat
-  * SCPSL
-  * MordHau
-  * ECO
-  * HLDS Server
- * [Adding More Soon](#roadmap)
+<br> [-> View All <-](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%8E%AE%5D%20Game%20Servers/-%5BUnorganised%20Games%5D-)
 
 ### 🤖 Bots
 * [Discord Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Discord%20Bots)
-  * Atlbot
-  * Bastion
-  * corpbot
-  * discord.js
-  * discord.py
-  * jmusicbot
-  * fragbot
-  * parkertron
-  * pixelbot
-  * redbot
-  * sinusbot
 * [TeamSpeak 3 Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/TeamSpeak%203%20Bots)
-  * JTS3ServerMod
 * [Twitch Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Twitch%20Bots)
-  * Phantombot
-  * SogeBot
 * [Other Bots](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%A4%96%5D%20Bots/Other%20Bots)
-  * BigBrotherBot
+
   
 ### 🗣️ Voice Servers
-* Mumble
-* [TeamSpeak](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%97%A3%EF%B8%8F%5D%20Voice%20Servers/TeamSpeak%20Servers)
-  * TeamSpeak 3
+* [Lavalink](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%97%A3%EF%B8%8F%5D%20Voice%20Servers/lavalink)
+* [TeamSpeak Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%97%A3%EF%B8%8F%5D%20Voice%20Servers/TeamSpeak%20Servers)
+* [Mumble](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%97%A3%EF%B8%8F%5D%20Voice%20Servers/mumble)
+
 
 ### 📊 Databases
 * [MySQL Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%93%8A%5D%20Databases/MySQL%20Servers)
-  * MariaDB
-  * Postgres
-* [Redis Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%93%8A%5D%20Databases/Redis%20Servers)
-  * Redis-5
-  * Redis-6
 * [NoSQL Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%93%8A%5D%20Databases/NoSQL%20Servers)
-  * MongoDB
+* [Redis Servers](https://github.com/DEVBenSon/pterodactyl-eggs/tree/main/Eggs-Pack/%5B%F0%9F%93%8A%5D%20Databases/Redis%20Servers)
   
 ### 🌐 Website & FastDL Servers
 * [WebHosting Servers](#about-the-project)
@@ -161,12 +82,8 @@ Currently, all eggs on this list support pterodactyl `v1.11.2`  - least <br>
 <!-- CONTACT -->
 ## Contact Support
 
-Discord - BenSon#0001 - Contact@devbenson.com
-> If your not able to contact me go to XevoTech for exrta support that is free.
-
-Project Link: [here](https://github.com/DEVBenSon/pterodactyl-eggs)
-Discord Server: [here](https://discord.gg/M9wdwwf)
-
+Discord - #devbenson - contact@devbenson.com
+> [Discord Server](https://discord.gg/SBFRN8SBGe)
 
 <!-- LICENSE -->
 ## License
