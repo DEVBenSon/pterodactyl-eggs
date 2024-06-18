@@ -1,6 +1,6 @@
-[![Generic badge](https://img.shields.io/badge/Downloads-1.2K-Green.svg)](https://github.com/DEVBenSon/pterodactyl-eggs/releases)
+[![Generic badge](https://img.shields.io/badge/Downloads-4.1K-Green.svg)](https://github.com/DEVBenSon/pterodactyl-eggs/releases)
 [![Generic badge](https://img.shields.io/badge/Pterodactyl-0.7-orange.svg)](#)
-[![Generic badge](https://img.shields.io/badge/Pterodactyl-1.0-blue.svg)](#)
+[![Generic badge](https://img.shields.io/badge/Pterodactyl-1.11.X-blue.svg)](#)
 
 <img src="images/icon.png" align="right" />
 
@@ -8,7 +8,7 @@
 > Maintained and managed by DEVBenSon
 
 List of custom made/public pterodactyl panel eggs (Server configurations) <br>
-Currently, all eggs on this list support pterodactyl `v1.5.1`  - least <br>
+Currently, all eggs on this list support pterodactyl `v1.11.2`  - least <br>
 
 ⥥ Download Pack! ⥥ <br>
 <a href="https://github.com/DEVBenSon/pterodactyl-eggs/releases">
