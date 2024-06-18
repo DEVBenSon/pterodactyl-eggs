@@ -13,7 +13,7 @@ Currently, all eggs on this list support pterodactyl `v1.11.2`  - least <br>
 ⥥ Download Pack! ⥥ <br>
 <a href="https://github.com/DEVBenSon/pterodactyl-eggs/releases">
  <img alt="download" src="/images/download.png"
- width="226" height="59">
+ width="393" height="59">
 </a>
 
 <img src="images/help.png" align="left" alt="Logo" width="42" height="42" />
